@@ -8,7 +8,6 @@ Vivado 2023.1
 Computer system with a suitable operating system.
 
 # Procedure:
-
 Launch Vivado 2023.1:
 
 Open Vivado and create a new project.
